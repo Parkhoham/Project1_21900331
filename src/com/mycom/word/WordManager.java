@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class WordManager {
 	Scanner s = new Scanner(System.in);
 	WordCRUD wordCRUD;
-	//this is wordmanager.
+	
 	WordManager(){
 		wordCRUD = new WordCRUD(s);
 	}
