@@ -28,7 +28,7 @@ public class WordManager {
 				 System.out.println();
 				 wordCRUD.listAll();
 				 System.out.println();
-			 }
+			 }//
 		 }
 	 }
 }
